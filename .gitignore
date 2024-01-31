@@ -1,0 +1,4 @@
+.venv/
+dataset/images/*
+dataset/annotations/*
+model/*
